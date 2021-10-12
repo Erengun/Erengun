@@ -9,6 +9,8 @@
 
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
+![alt text](https://github.com/Erengun/Erengun/blob/230c0a8bbf8c0cd4cd0d3bc95257f29dac52777b/42Profile.png)
+
 <br />
 <br />
 
