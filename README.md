@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-🔭 I’m currently studing in 42 school you can learn more about from [here][https://42.fr/en/what-is-42/42-program-explained/]
+🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
 💬 Ask me about 42
 🌱 I’m currently learning: C++, PYTHON, HTML/CSS and MACHINE LEARNING ...
-📫 How to reach me: [linkedin][https://tr.linkedin.com/in/eren-g%C3%BCn-543928222?trk=people-guest_people_search-card]
+📫 How to reach me: [linkedin][Eren]
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
+<br />
+<br />
+
+[42website]: https://42.fr/en/what-is-42/42-program-explained/
+[Eren]: https://tr.linkedin.com/in/eren-g%C3%BCn-543928222?trk=people-guest_people_search-card
 <!--
 **Erengun/Erengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
