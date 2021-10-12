@@ -15,11 +15,11 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://images.app.goo.gl/SL1Do6qanVAjBrbTA"></code>
+<code><img height="20" src="https://images.app.goo.gl/UhrouYJDGJNbVwm3A"></code>
+<code><img height="20" src="https://images.app.goo.gl/bchuiXs41gKPfnuu7"></code>
+<code><img height="20" src="https://images.app.goo.gl/s8TAzSCNLsKiBANcA"></code>
+<code><img height="20" src="https://images.app.goo.gl/9yfcZ3d12r4Cwpsq8"></code>  
 
 My [42][42] Piscine Results;
 ![alt text](https://github.com/Erengun/Erengun/blob/230c0a8bbf8c0cd4cd0d3bc95257f29dac52777b/42Profile.png)
