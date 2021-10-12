@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
+
 💬 Ask me about 42
+
 🌱 I’m currently learning: C++, PYTHON, HTML/CSS and MACHINE LEARNING ...
+
 🌐 You can visit my blog site from [here][blogwebsite]
+
 📫 How to reach me: [linkedin][Eren]
+
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
 My [42][42] Piscine Results;
