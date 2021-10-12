@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently studing in 42 school you can learn more about in https://42.fr/en/what-is-42/42-program-explained/
-🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
-📫 How to reach me: facebook - twitter - linkdin
+🔭 I’m currently studing in 42 school you can learn more about from [here][https://42.fr/en/what-is-42/42-program-explained/]
+💬 Ask me about 42
+🌱 I’m currently learning: C++, PYTHON, HTML/CSS and MACHINE LEARNING ...
+📫 How to reach me: [linkedin][https://tr.linkedin.com/in/eren-g%C3%BCn-543928222?trk=people-guest_people_search-card]
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
 <!--
