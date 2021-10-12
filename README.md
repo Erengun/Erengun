@@ -24,6 +24,8 @@
 ### My [42][42] Piscine Results;
 ![alt text](https://github.com/Erengun/Erengun/blob/230c0a8bbf8c0cd4cd0d3bc95257f29dac52777b/42Profile.png)
 
+
+### My Github Stats;
 [![Erengun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erengun&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
