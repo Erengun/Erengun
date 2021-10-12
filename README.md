@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently studing in 42 school you can learn more about in https://42.fr/en/what-is-42/42-program-explained/
+🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
+📫 How to reach me: facebook - twitter - linkdin
+⚡ Fun fact: The first computer “bug” was an actual real-life bug
+
 <!--
 **Erengun/Erengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
