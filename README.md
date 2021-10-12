@@ -15,11 +15,11 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://images.app.goo.gl/SL1Do6qanVAjBrbTA"></code>
-<code><img height="20" src="https://images.app.goo.gl/UhrouYJDGJNbVwm3A"></code>
-<code><img height="20" src="https://images.app.goo.gl/bchuiXs41gKPfnuu7"></code>
-<code><img height="20" src="https://images.app.goo.gl/s8TAzSCNLsKiBANcA"></code>
-<code><img height="20" src="https://images.app.goo.gl/9yfcZ3d12r4Cwpsq8"></code>  
+<code><img height="20" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png"></code>
+<code><img height="20" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/1200px-C_Sharp_wordmark.svg.png"></code>
+<code><img height="20" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/150px-ISO_C++_Logo.svg.png"></code>
+<code><img height="20" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/Tensorflow_logo.svg.png"></code>
+<code><img height="20" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/download.png"></code>  
 
 My [42][42] Piscine Results;
 ![alt text](https://github.com/Erengun/Erengun/blob/230c0a8bbf8c0cd4cd0d3bc95257f29dac52777b/42Profile.png)
