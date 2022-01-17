@@ -22,8 +22,8 @@
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/download.png"></code>  
 
 ### 👨‍💻 My [42][42] status;
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=saksoy)](https://profile.intra.42.fr/users/egun)
-[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/saksoy?cursus=C%20reloaded)](https://profile.intra.42.fr/users/egun)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=egun)](https://profile.intra.42.fr/users/egun)
+[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/egun?cursus=C%20reloaded)](https://profile.intra.42.fr/users/egun)
 
 
 
