@@ -34,7 +34,7 @@
 
 [42]: https://profile.intra.42.fr/users/egun
 [42website]: https://42.fr/en/what-is-42/42-program-explained/
-[Eren]: https://tr.linkedin.com/in/eren-g%C3%BCn-543928222?trk=people-guest_people_search-card
+[Eren]: https://tr.linkedin.com/in/erengun
 [blogwebsite]: https://erengun.me
 <!--
 **Erengun/Erengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
