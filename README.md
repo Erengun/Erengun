@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![erengun.me](https://github.com/Erengun/Erengun/blob/main/erengung.gif)
+
 🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
 
 💬 Ask me about 42
@@ -40,10 +42,10 @@
 | 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | 🔒      |
 
-
+<!--
 ### My Github Stats;
 [![Erengun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erengun&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <br />
 <br />
