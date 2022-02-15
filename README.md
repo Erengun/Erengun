@@ -31,7 +31,7 @@
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../MY-C-LIBARY)               | ✅125  |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | [Born2beroot]                               | 📝     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
+| 2   | [Born2beroot]                               | ✅100  |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
 | 3   | [ft_printf](../../../Printf)                | ✅100  |   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../get-next-line)     | ✅125  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
