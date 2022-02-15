@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![erengun.me](https://github.com/Erengun/Erengun/blob/main/erengung.gif)
+![erengun.me](https://github.com/Erengun/Erengun/blob/main/erengungif.gif)
 
 🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
 
