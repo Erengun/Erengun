@@ -23,10 +23,6 @@
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/Tensorflow_logo.svg.png"></code>
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/download.png"></code>  
 
-
-### 👨‍💻 My [42][42] status;
-[![egun's 42 stats](https://badge42.herokuapp.com/api/stats/egun?cursus=C%20reloaded)](https://profile.intra.42.fr/users/egun)
-
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
