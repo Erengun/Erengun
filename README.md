@@ -14,7 +14,7 @@
 
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
-
+<!--
 **Languages and Tools:**  
 
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png"></code>
@@ -22,6 +22,7 @@
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/150px-ISO_C++_Logo.svg.png"></code>
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/Tensorflow_logo.svg.png"></code>
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/download.png"></code>  
+-->
 
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
