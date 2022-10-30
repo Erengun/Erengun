@@ -6,7 +6,7 @@
 
 💬 Ask me about 42
 
-🌱 I’m currently learning: C++, PYTHON, HTML/CSS and MACHINE LEARNING ...
+🌱 I’m currently into Mobile Developing like Flutter and Swift ...
 
 🌐 You can visit my website from [here][blogwebsite]
 
