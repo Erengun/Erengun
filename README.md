@@ -22,6 +22,8 @@
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/150px-ISO_C++_Logo.svg.png"></code>
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/Tensorflow_logo.svg.png"></code>
 <code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/download.png"></code>  
+<code><img height="30" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"></code> 
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></code> 
 -->
 
 ## 42cursus Progress 💪🏻
@@ -65,3 +67,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/erengun/count.svg"/>
+</p>
