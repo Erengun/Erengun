@@ -2,18 +2,7 @@
 
 ![erengun.me](https://github.com/Erengun/Erengun/blob/main/erengungif.gif)
 
-🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
-
-💬 Ask me about 42
-
-🌱 I’m currently into Mobile Developing like Flutter and Swift ...
-
-🌐 You can visit my website from [here][blogwebsite]
-
-📫 How to reach me: [linkedin][Eren]
-
-⚡ Fun fact: The first computer “bug” was an actual real-life bug
-
+Hi, I'm Eren, a 20-year-old developer studying at Ecole 42. I'm a quick learner, passionate about science, technology, and various development languages. Currently, I'm focusing on Flutter, a cost-effective and efficient alternative for mobile app development. With almost a year of experience in Flutter and a few months in Node.js
 <!--
 **Languages and Tools:**  
 
