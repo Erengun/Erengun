@@ -6,7 +6,7 @@ You'll find here some of my projects and packages that showcase my skills and in
 
 ### Reach me
 
-~[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)~](https://tr.linkedin.com/in/erengun) ~[![Website Badge](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)~](https://erengun.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/erengun) [![Website Badge](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erengun.dev)
 
 📧 **Email:** [hi@erengun.dev](mailto:hi@erengun.dev)
 
