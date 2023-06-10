@@ -1,49 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-![erengun.me](https://github.com/Erengun/Erengun/blob/main/erengungif.gif)
+I'm Eren, a mobile developer who loves building apps with [Flutter](https://github.com/flutter/flutter). Currently studying at ~[Ecole 42](https://42.fr/en/what-is-42/42-program-explained/)~, I'm passionate about science, technology, and learning new things.
 
-Hi, I'm Eren, a 20-year-old developer studying at Ecole 42. I'm a quick learner, passionate about science, technology, and various development languages. Currently, I'm focusing on Flutter, a cost-effective and efficient alternative for mobile app development. With almost a year of experience in Flutter and a few months in Node.js
-<!--
-**Languages and Tools:**  
+You'll find here some of my projects and packages that showcase my skills and interests in the Flutter ecosystem.
 
-<code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png"></code>
-<code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/1200px-C_Sharp_wordmark.svg.png"></code>
-<code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/150px-ISO_C++_Logo.svg.png"></code>
-<code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/Tensorflow_logo.svg.png"></code>
-<code><img height="30" src="https://github.com/Erengun/Erengun/blob/cff3a70d6cc21aa941b4967010a92c0f80e16797/download.png"></code>  
-<code><img height="30" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"></code> 
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></code> 
--->
+### Reach me
 
+~[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)~](https://tr.linkedin.com/in/erengun) ~[![Website Badge](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)~](https://erengun.dev)
 
-<!--
-### My Github Stats;
-[![Erengun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erengun&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
+📧 **Email:** [hi@erengun.dev](mailto:hi@erengun.dev)
 
-<br />
-<br />
+### Collaborate with me
 
-[42]: https://profile.intra.42.fr/users/egun
-[42website]: https://42.fr/en/what-is-42/42-program-explained/
-[Eren]: https://tr.linkedin.com/in/erengun
-[blogwebsite]: https://erengun.me
-<!--
-**Erengun/Erengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/erengun/count.svg"/>
-</p>
+If you're interested in collaborating on a project or need help with something, feel free to reach out to me. I'm always happy to learn from others and contribute to the open-source community.
