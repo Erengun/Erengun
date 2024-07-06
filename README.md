@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eren, a self learnt coder who loves building apps with [Flutter](https://github.com/flutter/flutter). I got CS education at [Ecole 42](https://42.fr/en/what-is-42/42-program-explained/), I'm passionate about science, technology, and learning new things.
+I'm Eren, a self learnt coder who loves building mobile and web apps. I got CS education at [Ecole 42](https://42.fr/en/what-is-42/42-program-explained/), I'm passionate about science, technology, and learning new things.
 
 You'll find here some of my projects and packages that showcase my skills and interests in the Flutter ecosystem.
 
