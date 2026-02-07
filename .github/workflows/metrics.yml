@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs every midnight
-  workflow_dispatch:              # Allows you to run it manually
+  schedule: [{cron: "0 0 * * *"}] # Her gece güncellenir
+  workflow_dispatch:              # Manuel çalıştırma butonu ekler
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -11,23 +11,17 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Options
           user: Erengun
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: markdown
+          base: header, metadata
           
-          # Plugin: Notable (Shows your contributions to big projects)
+          # Önemli Katkılar (Notable Contributions) Bölümü
           plugin_notable: yes
-          plugin_notable_from: organization # Only show contributions to orgs
+          plugin_notable_from: organization # Sadece organizasyon depolarını göster (Flutter, Riverpod vb.)
           plugin_notable_types: commit, pull_request
-          plugin_notable_indepth: yes
+          plugin_notable_indepth: yes # Daha detaylı tarama yapar
           
-          # Plugin: Follow-up (Shows PR status)
-          plugin_followup: yes
-          plugin_followup_sections: user
-          
-          # Plugin: Languages (Shows your Flutter/Dart focus)
+          # Diller ve Diğerleri
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
