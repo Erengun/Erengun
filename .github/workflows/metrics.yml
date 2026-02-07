@@ -13,8 +13,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: contributions-activity.svg
           
-          base: ""
+          base: "" 
           base_skip: yes
+          base_indepth: no
+          
+          config_order: notable, activity
           
           # 🎩 Notable Contributions
           plugin_notable: yes
@@ -22,10 +25,9 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request
-          plugin_notable_self: false
           
           # 📰 Recent Activity
           plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 50
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
           plugin_activity_filter: pr, commit, issue
