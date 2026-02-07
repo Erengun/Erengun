@@ -13,3 +13,5 @@ You'll find here some of my projects and packages that highlight my skills and i
 If you're interested in collaborating on a project or need help with something, feel free to reach out to me. I'm always happy to learn from others and contribute to the open-source community.
 
 ![:name](https://count.getloli.com/@Erengun?name=counter&theme=rule34&padding=6&offset=0&align=top&scale=0.5&pixelated=1&darkmode=1)
+
+![Metrics](/github-metrics.svg)
