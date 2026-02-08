@@ -27,12 +27,11 @@ jobs:
           # Options
           user: Erengun
           template: classic
-          base: ""
+          base: header
           base_skip: yes
           config_timezone: Europe/Istanbul
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit, pull_request, issue
