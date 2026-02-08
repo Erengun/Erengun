@@ -31,6 +31,6 @@ jobs:
           base_skip: yes
           config_timezone: Europe/Istanbul
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_repositories: yes
