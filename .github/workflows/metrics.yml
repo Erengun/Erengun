@@ -32,10 +32,7 @@ jobs:
           config_timezone: Europe/Istanbul
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_types: commit
+          plugin_notable_types: commit, pull_request, issue
