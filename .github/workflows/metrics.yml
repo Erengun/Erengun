@@ -26,7 +26,8 @@ jobs:
 
           # Options
           user: Erengun
-          template: classic
+          template: markdown
+          filename: metrics.md
           base: ""
           base_skip: yes
           config_timezone: Europe/Istanbul
@@ -34,3 +35,8 @@ jobs:
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_repositories: yes
+
+      - name: Inject metrics into README
+        run: |
+          sed -i '//,//{//!d}' README.md
+          sed -i '//r metrics.md' README.md
